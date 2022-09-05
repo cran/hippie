@@ -1,0 +1,15 @@
+Name: Hippie Completion up
+Description: Invoke upwards Hippie Completion
+Binding: hippie_up
+Interactive: false
+
+Name: Hippie Completion down
+Description: Invoke downwards Hippie Completion
+Binding: hippie_down
+Interactive: false
+
+Name: Invoke data viewer
+Description: Invokes utils::View on the results of running a pipe-containing
+  expression to the left of the cursor
+Binding: invoke_view
+Interactive: false
